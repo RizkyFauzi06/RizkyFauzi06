@@ -1,4 +1,4 @@
-# Hi, I'm Rizki 👋
+# Hi, I'm Rizki Fauzi 👋
 
 I'm an Computer Science undergrad at Universitas Mercu Buana (studying on a full scholarship). I have a strong interest in low-level engineering, choosing to build foundations from scratch and understand how systems truly work under the hood rather than relying on high-level frameworks.
 
