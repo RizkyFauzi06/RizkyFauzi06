@@ -10,4 +10,7 @@ I'm an Computer Science undergrad at Universitas Mercu Buana (studying on a full
 **Tech Stack:** 
 C++ | Python | Raylib
 
-**Connect with me:** [LinkedIn](www.linkedin.com/in/rizki-fauzi-839871391)
+**Connect with me:** 
+[LinkedIn](https://www.linkedin.com/in/rizki-fauzi-839871391)
+[CodeForces](https://codeforces.com/profile/rizkifaz06)
+[leetcode](https://leetcode.com/u/RyzXyco/)
