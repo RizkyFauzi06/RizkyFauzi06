@@ -1,6 +1,6 @@
 # Hi, I'm Rizki 👋
 
-I'm an Informatics Engineering undergrad at Universitas Mercu Buana (studying on a full scholarship). I have a strong interest in low-level engineering, choosing to build foundations from scratch and understand how systems truly work under the hood rather than relying on high-level frameworks.
+I'm an Computer Science undergrad at Universitas Mercu Buana (studying on a full scholarship). I have a strong interest in low-level engineering, choosing to build foundations from scratch and understand how systems truly work under the hood rather than relying on high-level frameworks.
 
 **What I'm up to:**
 - ⚙️ **Building:** 2D physics simulations and core mechanics using C++ & Raylib.
