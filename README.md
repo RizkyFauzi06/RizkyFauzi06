@@ -5,7 +5,7 @@ I'm an Computer Science undergrad at Universitas Mercu Buana (studying on a full
 **What I'm up to:**
 - ⚙️ **Building:** 2D physics simulations and core mechanics using C++ & Raylib.
 - 🧩 **Problem Solving:** Tackling Competitive Programming (CP) challenges just because I genuinely find the logical puzzles fun.
-- 📚 **Learning:** Data Structures & Algorithms (DSA), and the math behind Graphics Programming.
+- 📚 **Learning:** Data Structures & Algorithms, Mathematics (Linear Algebra, and Discrete Mathematics), and Software Engineering, with a focus on understanding software development and the principles behind systems and graphics programming. 
 
 **Tech Stack:** 
 C++ | Python | Raylib
