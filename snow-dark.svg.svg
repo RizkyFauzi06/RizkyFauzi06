@@ -1,0 +1,25 @@
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .snow { fill: #c9d1d9; font-family: monospace; font-size: 16px; animation: fall linear infinite; }
+    @keyframes fall {
+      0% { transform: translateY(-20px); opacity: 0; }
+      10% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { transform: translateY(120px); opacity: 0; }
+    }
+    .d1 { animation-duration: 4s; animation-delay: 0s; }
+    .d2 { animation-duration: 3s; animation-delay: 1s; }
+    .d3 { animation-duration: 5s; animation-delay: 2s; }
+    .d4 { animation-duration: 4.5s; animation-delay: 0.5s; }
+    .d5 { animation-duration: 3.5s; animation-delay: 1.5s; }
+  </style>
+  <!-- ASCII Snowflakes -->
+  <text x="50" y="0" class="snow d1">*</text>
+  <text x="120" y="0" class="snow d2">.</text>
+  <text x="200" y="0" class="snow d3">+</text>
+  <text x="280" y="0" class="snow d4">*</text>
+  <text x="350" y="0" class="snow d1">.</text>
+  <text x="420" y="0" class="snow d5">*</text>
+  <text x="500" y="0" class="snow d2">+</text>
+  <text x="570" y="0" class="snow d3">.</text>
+</svg>
