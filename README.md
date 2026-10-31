@@ -46,11 +46,11 @@ I'm still exploring different areas of computer science, and I see every project
 ### `> Tech Stack`
 
 <p align="center">
-  <img height="70" src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img height="70" src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img height="70" src="https://img.shields.io/badge/Raylib-121212?style=for-the-badge&logo=raylib&logoColor=white" alt="Raylib">
-  <img height="70" src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img height="70" src="https://img.shields.io/badge/VS_Code-121212?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img height="100" src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img height="100" src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img height="100" src="https://img.shields.io/badge/Raylib-121212?style=for-the-badge&logo=raylib&logoColor=white" alt="Raylib">
+  <img height="100" src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img height="100" src="https://img.shields.io/badge/VS_Code-121212?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 ### `> Principles`
